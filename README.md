@@ -1,5 +1,4 @@
 
-````markdown
 # Salesforce Record Filler 🚀
 
 A simple Chrome Extension that autofills **Salesforce record fields** with **realistic dummy data** for testing.  
@@ -22,8 +21,8 @@ No more wasting time typing fake names, emails, or phone numbers while testing f
 ## 📦 Installation (Load Unpacked in Chrome)
 
 1. Clone or download this repository:
-```bash
-   git clone https://github.com/YourGitHubUsername/salesforce-record-filler.git
+```
+   git clone https://github.com/Sahildholpuria/Salesforce-Record-Filler.git
 ````
 
 Or download as ZIP and extract.
@@ -91,7 +90,7 @@ MIT License © 2025 \[Your Name]
 
 ## 🌐 Links
 
-* 🔗 [GitHub Repository](https://github.com/YourGitHubUsername/salesforce-record-filler)
+* 🔗 [GitHub Repository](https://github.com/Sahildholpuria/Salesforce-Record-Filler.git)
 
 ```
 
