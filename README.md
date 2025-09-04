@@ -84,7 +84,7 @@ If you’d like to suggest new features or improvements, please open an **issue*
 
 ## 📜 License
 
-MIT License © 2025 \[Your Name]
+MIT License © 2025 \ Sahil Dholpuria
 
 ---
 
