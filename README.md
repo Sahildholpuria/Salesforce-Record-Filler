@@ -92,11 +92,3 @@ MIT License © 2025 \[Your Name]
 
 * 🔗 [GitHub Repository](https://github.com/Sahildholpuria/Salesforce-Record-Filler.git)
 
-```
-
----
-
-✅ Just replace `YourGitHubUsername` with your actual GitHub username, and optionally add a **screenshot.png** of the popup in your `icons/` folder for the README.  
-
-Do you want me to also add a **GIF demo** (showing fields auto-filling) so your README looks even cooler?
-```
