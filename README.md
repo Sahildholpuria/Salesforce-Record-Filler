@@ -1,9 +1,3 @@
-Perfect 🚀 a **README.md** will make your project clear for anyone installing it from GitHub.
-Here’s a polished one for **Salesforce Record Filler** 👇
-
----
-
-### 📄 README.md
 
 ````markdown
 # Salesforce Record Filler 🚀
