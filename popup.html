@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Salesforce Record Filler</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 10px;
+        width: 220px;
+        text-align: center;
+      }
+      .header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 12px;
+      }
+      .header img {
+        width: 24px;
+        height: 24px;
+        margin-right: 8px;
+      }
+      .header h2 {
+        font-size: 16px;
+        margin: 0;
+        color: #1589ee; /* Salesforce blue */
+      }
+      button {
+        width: 100%;
+        padding: 8px;
+        margin: 5px 0;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 14px;
+      }
+      #fillAll {
+        background: #4caf50;
+        color: white;
+      }
+      #fillEmpty {
+        background: #2196f3;
+        color: white;
+      }
+      .footer {
+        margin-top: 12px;
+        font-size: 12px;
+      }
+      .footer a {
+        color: #333;
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .footer img {
+        width: 18px;
+        height: 18px;
+        margin-right: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header with logo + name -->
+    <div class="header">
+      <img src="icons/icon48.png" alt="Logo" />
+      <h2>Salesforce Record Filler</h2>
+    </div>
+
+    <!-- Buttons -->
+    <button id="fillAll">Fill All Fields</button>
+    <button id="fillEmpty">Fill Empty Fields</button>
+
+    <!-- Footer with GitHub link -->
+    <div class="footer">
+      <a href="https://github.com/YourGitHubUsername/salesforce-record-filler" target="_blank">
+        <img src="icons/github-icon-1.svg" alt="GitHub" /> View on GitHub
+      </a>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
