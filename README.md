@@ -22,7 +22,7 @@ No more wasting time typing fake names, emails, or phone numbers while testing f
 ## 📦 Installation (Load Unpacked in Chrome)
 
 1. Clone or download this repository:
-   ```bash
+```bash
    git clone https://github.com/YourGitHubUsername/salesforce-record-filler.git
 ````
 
